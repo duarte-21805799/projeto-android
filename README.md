@@ -28,6 +28,3 @@
 
 * No ecrã das listas, no cálculo da distância dos cinemas ao utilizador
 * No mapa para aproximar a vista na localização do utilizador
-
-## Auto Avaliação
-12
