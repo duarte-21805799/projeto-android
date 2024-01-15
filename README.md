@@ -10,9 +10,6 @@
 ![image](https://github.com/ULHT-CM-2022-23/projeto-android-nativo-a21805799/assets/56363941/df24713d-b8f9-4bf6-bb50-155e7d304c14)
 ![image](https://github.com/ULHT-CM-2022-23/projeto-android-nativo-a21805799/assets/56363941/f0c14635-8932-4a42-a157-70ca46a12cec)
 
-## Link vídeo de apresentação
-https://www.youtube.com/watch?v=qrC8r88ctBE
-
 ## Funcionalidades
 * Multi-idioma (Português, Inglês e Espanhol) traduzido pelo ChatGPT
 * Apresentação dos filmes em lista (c/landscape)
