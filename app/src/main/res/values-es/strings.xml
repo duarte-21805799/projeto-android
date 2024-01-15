@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_closed">Cerrado</string>
+    <string name="registry_saved">Registro guardado</string>
+    <string name="no_movies_available">Datos no disponibles</string>
+    <string name="dashboard">Tablero de información</string>
+    <string name="map">Mapa:</string>
+    <string name="movies_list">Lista de películas</string>
+    <string name="movies_map">Mapa</string>
+    <string name="about">Acerca de</string>
+    <string name="about_text">Esta aplicación es un proyecto para el curso de Computación Móvil del programa de Ingeniería Informática en la Universidade Lusófona de Humanidades e Tecnologia.</string>
+    <string name="about_credit">Hecho por: Duarte Cambra</string>
+
+    <string name="info_not_available">Información no disponible</string>
+    <string name="location">Ubicación:</string>
+    <string name="created">Creado el:</string>
+    <string name="updated">Actualizado el:</string>
+
+    <string name="this_week">Esta semana</string>
+
+    <string name="registered_at">Registrado en:</string>
+    <string name="pictures">Fotografías (opcional):</string>
+    <string name="pictures2">Fotografía</string>
+    <string name="observations">Observaciones (opcional)</string>
+
+    <string name="title">Título</string>
+    <string name="nameHint">Nombre</string>
+    <string name="movie_theater">Cine</string>
+    <string name="date">Fecha</string>
+    <string name="hour">Hora:</string>
+
+    <string name="report_movie">Registro de película</string>
+
+    <string name="form_title">Registro de película</string>
+    <string name="dialog_message">¿Deseas confirmar?</string>
+    <string name="submit">Enviar</string>
+
+    <string name="name_error">Por favor, introduce una película válida</string>
+    <string name="cinema_error">Por favor, introduce un cine válido</string>
+
+    <string name="dialog_title">Confirmación</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <string name="yes_choice">¡Película registrada exitosamente!</string>
+    <string name="no_choice">Registro cancelado</string>
+    <string name="not_available">No disponible</string>
+    <string name="distance">Distancia (m):</string>
+    <string name="away">m de distancia</string>
+    <string name="reportNow">¡Reportar ahora!</string>
+    <string name="location_not_found">Ubicación no encontrada</string>
+    <string name="apply">Aplicar</string>
+    <string name="sort">Ordenar</string>
+    <string name="closer">Más cercano a mí</string>
+    <string name="farther">Más lejano de mí</string>
+    <string name="evaluation_hint">Evaluación</string>
+    <string name="drawer_open">Abierto</string>
+    <string name="genre">Género</string>
+    <string name="evaluation">Evaluación</string>
+    <string name="cinema_text">Seleccionar cine</string>
+    <string name="evaluation_error">Por favor, introduce un valor del 1 al 10</string>
+    <string name="movie_unexistent">¡Película no existente!</string>
+    <string name="date_watched">Fecha de visualización</string>
+    <string name="observations_text">Observaciones</string>
+    <string name="date_premiere">Fecha de estreno</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="avg_evaluation">Evaluación promedio</string>
+    <string name="movie_correct">La peli esta cierta?</string>
+    <string name="this_month">Este mes</string>
+    <string name="this_year">Este año</string>
+    <string name="today">Hoy</string>
+</resources>

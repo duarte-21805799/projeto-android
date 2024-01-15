@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_closed">Closed</string>
+    <string name="registry_saved">Registration saved</string>
+    <string name="no_movies_available">No data available</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="map">Map:</string>
+    <string name="movies_list">Movie List</string>
+    <string name="movies_map">Map</string>
+    <string name="about">About</string>
+    <string name="about_text">This application is a project for the Mobile Computing course of the Computer Engineering program at Universidade Lusófona de Humanidades e Tecnologia.</string>
+    <string name="about_credit">Made by: Duarte Cambra</string>
+
+    <string name="info_not_available">Information not available</string>
+    <string name="location">Location:</string>
+    <string name="created">Created on:</string>
+    <string name="updated">Updated on:</string>
+
+    <string name="this_week">This week</string>
+
+    <string name="registered_at">Registered at:</string>
+    <string name="pictures">Pictures (optional):</string>
+    <string name="pictures2">Picture</string>
+    <string name="observations">Observations (optional)</string>
+
+    <string name="title">Title</string>
+    <string name="nameHint">Name</string>
+    <string name="movie_theater">Theater</string>
+    <string name="date">Date</string>
+    <string name="hour">Hour:</string>
+
+    <string name="report_movie">Movie Registration</string>
+
+    <string name="form_title">Movie Registration</string>
+    <string name="dialog_message">Do you want to confirm?</string>
+    <string name="submit">Submit</string>
+
+    <string name="name_error">Please enter a valid movie</string>
+    <string name="cinema_error">Please enter a valid cinema</string>
+
+    <string name="dialog_title">Confirmation</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="yes_choice">Movie registered successfully!</string>
+    <string name="no_choice">Registration cancelled</string>
+    <string name="not_available">Not available</string>
+    <string name="distance">Distance (m):</string>
+    <string name="away">m away</string>
+    <string name="reportNow">Report Now!</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="apply">Apply</string>
+    <string name="sort">Sort</string>
+    <string name="closer">Closer to me</string>
+    <string name="farther">Farther from me</string>
+    <string name="evaluation_hint">Evaluation</string>
+    <string name="drawer_open">Open</string>
+    <string name="genre">Genre</string>
+    <string name="evaluation">Evaluation</string>
+    <string name="cinema_text">Choose cinema</string>
+    <string name="evaluation_error">Please enter a value from 1 to 10</string>
+    <string name="movie_unexistent">Movie does not exist!</string>
+    <string name="date_watched">Viewing Date</string>
+    <string name="observations_text">Observations</string>
+    <string name="date_premiere">Release Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="avg_evaluation">Average Evaluation</string>
+    <string name="movie_correct">Is the movie right?</string>
+    <string name="this_month">This month</string>
+    <string name="this_year">This year</string>
+    <string name="today">Today</string>
+</resources>
